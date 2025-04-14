@@ -1,4 +1,4 @@
-# PhotoParty: Dynamic Slideshow with Filegator Integration
+# PhotoParty: Dynamic Slideshow using Filegator to upload images
 
 This project is a Flask-based slideshow that automatically updates with images from a specified directory. Perfect for parties and events!
 
